@@ -25,10 +25,12 @@ Used For;
 
 -CryptoSeeds Arcade
 
-CryptoSeeds (RYP) Was Launched In 2020
 
-Token Max Supply 50,000,000 
-Minting Disabled 
+### CryptoSeeds (RYP) Was Launched In 2020 ###
+
+- Token Max Supply 50,000,000 
+
+- Minting Disabled 
 
 ### Who Are the Founders of The CryptoSeeds EcoSystem?
 
